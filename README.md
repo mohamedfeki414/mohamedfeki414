@@ -105,7 +105,7 @@
 # 📫 Contact Me
 
 📧 **Email:** medfeki33@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/mohamed-feki-/  
+🔗 **LinkedIn:** www.linkedin.com/in/mohamed-feki-dev  
 🐙 **GitHub:** https://github.com/mohamedfeki414  
 
 ---
