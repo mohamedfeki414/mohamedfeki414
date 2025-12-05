@@ -18,7 +18,7 @@
 
 ---
 
-# 🎨 Tech Stack (Logos 100% Fonctionnels)
+# 🎨 Tech Stack 
 
 ## 🖥️ Programming Languages  
 <p>
@@ -81,7 +81,7 @@
 
 ---
 
-# 📊 GitHub Stats (VERSION 100% FIX – PAS DE 401)
+# 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamedfeki414&show_icons=true&theme=tokyonight" />
