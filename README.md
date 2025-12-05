@@ -10,10 +10,10 @@
 
 </div>
 
----
-
-<!-- ANIMATED GRADIENT BAR -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<!-- CUSTOM CREATIVE SEPARATOR -->
+<p align="center">
+  <img width="80%" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/line-neon.gif"/>
+</p>
 
 # 🎨 About Me  
 <div align="center">
@@ -26,82 +26,69 @@
 
 </div>
 
----
+<!-- CREATIVE SEPARATOR -->
+<p align="center">
+  <img width="80%" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/hr.gif"/>
+</p>
 
-<!-- TECH STACK -->
-# 🚀 Tech Stack (Artistic Edition)
+# 🚀 Tech Stack
 
 <div align="center">
 
-### 🖥️ Programming Languages  
-<img src="https://skillicons.dev/icons?i=cs,java,js,ts,php,python,dart&theme=light" />
+### 🖥️ Languages  
+<img src="https://skillicons.dev/icons?i=cs,java,js,ts,php,python,dart" />
 
-### 🌐 Web Development  
-<img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap&theme=light" />
+### 🌐 Web  
+<img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap" />
 
-### ⚙️ Backend & APIs  
-<img src="https://skillicons.dev/icons?i=dotnet,spring,laravel,nodejs&theme=light" />
+### ⚙️ Backend  
+<img src="https://skillicons.dev/icons?i=dotnet,spring,laravel,nodejs" />
 
-### 📱 Mobile Dev  
-<img src="https://skillicons.dev/icons?i=flutter&theme=light" />
+### 📱 Mobile  
+<img src="https://skillicons.dev/icons?i=flutter" />
 <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/.NET_MAUI_Logo.png/600px-.NET_MAUI_Logo.png" />
 
 ### 🗄️ Databases  
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=light" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 <img height="48" src="https://img.icons8.com/ios/500/microsoft-sql-server.png" />
 
 ### 🛠️ Tools  
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio,figma&theme=light" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio,figma" />
 
 </div>
 
----
+<!-- CREATIVE SEPARATOR -->
+<p align="center">
+  <img width="70%" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/assets/line-laser.gif"/>
+</p>
 
-<!-- ANIMATED NEON TITLE -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=✨+Featured+Projects+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=✨+Featured+Projects+✨" />
 </h1>
 
----
-
-# 🛒 E-Commerce Full Stack App  
-✔️ React + Spring Boot  
-✔️ Admin Dashboard  
-✔️ JWT Auth • Cart • Orders  
-✔️ Modern Architecture  
-
----
+# 🛒 E-Commerce Full Stack  
+✔️ React + Spring Boot + JWT + Admin Dashboard  
 
 # 🚚 Delivery Management System (Web + Mobile)  
-**Internship @ SOPAL (2025)**  
-✔️ ASP.NET Core  
-✔️ Vue.js  
-✔️ .NET MAUI  
-✔️ Real-time Notifications  
-✔️ Delivery Tracking + Docs Generator  
-
----
+✔️ ASP.NET Core • Vue.js • .NET MAUI • Real-time notifications  
 
 # 📚 PFE Report Management Platform  
-✔️ PHP • MySQL • Laragon  
-✔️ Auth • Upload • Review • Archive  
-✔️ Dynamic Dashboards  
-
----
+✔️ PHP • MySQL • Dashboards • Secure access  
 
 # 💊 Electronic Prescription System  
-✔️ ASP.NET Core  
-✔️ Secure medical workflow  
-✔️ Patient + Prescription Management  
+✔️ ASP.NET Core • Secure Medical Workflow  
 
----
+<!-- PREMIUM SEPARATOR -->
+<p align="center">
+  <img width="85%" src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/src/images/midwave.gif"/>
+</p>
 
-<!-- GITHUB STATS PREMIUM -->
-# 📊 Premium GitHub Stats (Animated + Stylish)
+# 📊 GitHub Stats (Premium)
 
 <div align="center">
 
-<img width="48%" 
+<!-- FIXED + OFFICIAL MIRROR -->
+<img width="48%"
      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohamedfeki414&show_icons=true&theme=tokyonight&hide_border=true" 
 />
 
@@ -109,17 +96,18 @@
      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mohamedfeki414&layout=compact&theme=tokyonight&hide_border=true" 
 />
 
-<img src="https://streak-stats.demolab.com?user=mohamedfeki414&theme=tokyonight&hide_border=true" />
+<br/>
+
+<img 
+     src="https://streak-stats.demolab.com?user=mohamedfeki414&theme=tokyonight&hide_border=true" 
+/>
 
 </div>
 
----
-
-<!-- WAVE ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:4CAF50&height=120&section=footer"/>
+<!-- WAVING FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:4CAF50&height=140&section=footer"/>
 
 # 📫 Contact Me  
 📧 Email : **medfeki33@gmail.com**  
 🔗 LinkedIn : **www.linkedin.com/in/mohamed-feki-dev**  
 🐙 GitHub : **github.com/mohamedfeki414**
-
